@@ -1,4 +1,4 @@
-# example-voting-app-kubernetes-v2
+# example-voting-app-kubernetes
 
 
 
